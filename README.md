@@ -23,11 +23,11 @@ Link
 
 
 # Dmitriy B
-Initial Description
+Initial Description Burtsev_vignette.Rmd
 Link https://raw.githubusercontent.com/dburtsev/CUNYR/master/vignette.Rmd
 
-Revision/Addition Description
-Link
+Revision/Addition Description - update Deepak-607-TidyVerse.Rmd
+Link 
 ¬----
 
 
